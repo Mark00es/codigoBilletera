@@ -1,5 +1,6 @@
 function sumar(a, b) {
-  return a + b;
-}
-
-export default sumar;
+    return a + b;
+  }
+  
+  export default sumar;
+  
